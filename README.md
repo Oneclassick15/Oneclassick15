@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oneclassik
 - 👀 I’m interested in developing chatbots, sites and software
-- 🌱 I’m currently learning PHP, JS, HTML, CSS, C#, C++, Python, Java
+- 🌱 I’m currently learning PHP, JS, HTML, CSS, C#, C++, Python, Java, Golang
 
 <!---
 Oneclassik/Oneclassik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
